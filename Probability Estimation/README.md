@@ -1,1 +1,1 @@
-# Assignment 1: Probability
+# Assignment 1: Probability Estimation
